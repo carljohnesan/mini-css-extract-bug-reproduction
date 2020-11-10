@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "css-loader": "^5.0.1",
+    "mini-css-extract-plugin": "^1.3.0",
+    "webpack": "4.44.2"
+  },
+  "scripts": {
+    "start": "node reproduction"
+  }
+}
